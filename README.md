@@ -1,8 +1,8 @@
-# Badge
+# Trabajo en Clase - Badge
 
-Trabajo en clase
 
 ## Enlace del APK Generado
+https://drive.google.com/file/d/173JfYSzGCnFqnICi_jhLYQmhQCWRw2Gx/view?usp=sharing
 
 ## Capturas de Pantalla
 ![image](https://github.com/cristian-simba/badge/assets/117742977/7e1e4dd9-3bc8-45cd-b5d2-1d8fc3f26867)
